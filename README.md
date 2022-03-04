@@ -1,5 +1,4 @@
-# smartequip_sb
-#This is a spring boot application
+# This is a spring boot application
 
 *Requirements:*
 1) Java 11
